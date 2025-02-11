@@ -1,0 +1,3 @@
+#ignored 
+.env
+node_modules
